@@ -50,7 +50,7 @@ module.exports = {
             .catch(() => null);
 
     
-        // Kullanıcı bilgilerini gösteren embed oluştur
+       
         const profileEmbed = new EmbedBuilder()
 .setColor('#00FF00')
 .setAuthor({ name: `${member.user.tag}'s Profile`, iconURL: userAvatar })
