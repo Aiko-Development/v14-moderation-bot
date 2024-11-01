@@ -40,7 +40,7 @@ Follow these steps to set up the bot on your own server.
 
 4. **Start the Bot**:
     ```bash
-    npm start
+   node .
     ```
 
 ## 📝 Customization
